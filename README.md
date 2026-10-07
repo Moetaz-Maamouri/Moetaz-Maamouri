@@ -1,55 +1,278 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24288
-Fork on GitHub
-8356
+# 👋 Hi, I'm Moetaz Maamouri
 
-back to edit
+### Full-Stack Developer | Master's Student in Media Engineering 🇹🇳
 
-copy-markdown
+I'm a **Full-Stack Developer** passionate about building modern web and mobile applications.
 
-download markdown
+I enjoy turning ideas into practical, user-friendly solutions and continuously exploring new technologies in **Web Development, Mobile Development, AI and Software Engineering**.
 
-download backup
+🎓 Master's student in **Media Engineering — ISAMM Manouba**
 
-preview
-<h1 align="center">Hi 👋, I'm Moetaz Maamouri</h1>
-<h3 align="center">A passionate fullstack developer from Tunisia</h3>
+💼 Currently looking for a **PFE Internship / Full-Stack opportunity**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moetazmaamouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moetazmaamouri" height="30" width="40" /></a>
+---
+
+## 🚀 About Me
+
+* 💻 Full-Stack Developer focused on **Angular, React & ASP.NET Core**
+* 🧠 Interested in **AI-powered applications**
+* 📱 Experience with **Android development**
+* 🗄️ Working with **PostgreSQL, SQL Server & Firebase**
+* 🐳 Currently improving my knowledge of **Docker & DevOps**
+* 🌱 Exploring **Spring Boot, Three.js & modern architectures**
+* 🇹🇳 Based in Tunisia
+* ⚡ I learn by building real projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css,dart" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### ⚛️ Frontend
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me a Coffee
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,threejs,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,mongodb" />
+</p>
+
+### 🔧 Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,azure,postman,vscode,androidstudio" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 📝 SmartNote
+
+> AI-powered Android application for capturing, extracting and summarizing information from images.
+
+**Technologies:**
+
+`Java` `Android Studio` `Firebase` `ML Kit` `REST API` `AI`
+
+**Main features:**
+
+* 🔐 Firebase authentication
+* 📝 Create and organize notes
+* 📷 Extract text from images
+* 🤖 AI-powered text summarization
+* ☁️ Firebase Firestore storage
+* 🎨 Modern Android interface
+
+🔗 **[View Project](https://github.com/Moetaz-Maamouri/SmartNoteApp)**
+
+---
+
+## 🌐 Portfolio V2
+
+> Modern personal portfolio showcasing my skills, projects and experience.
+
+**Technologies:**
+
+`React` `JavaScript` `Framer Motion` `CSS`
+
+**Highlights:**
+
+* ✨ Animated UI
+* 📱 Responsive design
+* 🎨 Modern visual experience
+* 🚀 Project showcase
+* 📄 CV integration
+
+🔗 **[View Project](https://github.com/Moetaz-Maamouri/PortfolioV2)**
+
+---
+
+## ☁️ CloudConnect
+
+> Web application developed with Angular, focusing on modern frontend architecture and cloud-connected functionality.
+
+**Technologies:**
+
+`Angular` `TypeScript` `HTML` `CSS`
+
+🔗 **[View Project](https://github.com/Moetaz-Maamouri/cloudconnect-angular)**
+
+---
+
+## 🎯 Habit Tracker
+
+> A modern habit tracking application designed to help users build and maintain productive habits.
+
+**Technologies:**
+
+`TypeScript` `Web Development`
+
+**Features:**
+
+* 📅 Habit management
+* 📊 Progress tracking
+* 🎯 Goal-oriented interface
+* 📱 Responsive design
+
+🔗 **[View Project](https://github.com/Moetaz-Maamouri/habit-tracker)**
+
+
+
+# 🏢 Academic & Professional Projects
+
+### Via7 — Employer Declaration Module
+
+Developed during my PFE to digitize and manage employer declaration processes according to the Tunisian administrative model.
+
+**Technologies:**
+
+`ASP.NET Zero Core` `Angular` `C#` `SQL Server` `PrimeNG` `Azure DevOps`
+
+**Main work:**
+
+* Full-stack feature development
+* Database integration
+* Excel import/export
+* CNSS / DGI-related data processing
+* Angular interfaces
+* REST API integration
+* Agile/Scrum development
+
+---
+
+
+# 🏆 Certifications
+
+### Microsoft — Back-End Development with .NET
+
+**Topics covered:**
+
+* ASP.NET Core
+* C#
+* REST APIs
+* Middleware
+* OpenAPI
+* Backend development
+* Git & GitHub
+* AI-assisted development with GitHub Copilot
+
+---
+
+### IBM — Introduction to HTML, CSS, & JavaScript
+
+**Topics covered:**
+
+* HTML5
+* CSS3
+* JavaScript
+* Web development fundamentals
+* Responsive web design
+
+---
+
+### University of Michigan — Building Web Applications in PHP
+
+**Topics covered:**
+
+* PHP
+* Server-side web development
+* Database integration
+* Dynamic web applications
+
+---
+
+### 📚 Continuous Learning
+
+I'm continuously developing my skills through online certifications, personal projects and academic work.
+
+**Currently exploring:**
+
+`Docker` `Kubernetes` `Spring Boot` `Three.js` `Cloud` `DevOps` `AI`
+
+---
+
+
+I'm currently focusing on improving my skills in:
+
+* 🏗️ Software Architecture
+* 🔐 Backend Development
+* 🐳 Docker & Containers
+* ☁️ Cloud & DevOps
+* 🤖 AI Integration
+* 🎨 Advanced Frontend Animation
+* ⚛️ React & Three.js
+
+---
+
+# 🎯 2026 Goals
+
+* 💼 Find a **PFE Internship**
+* 🚀 Become a stronger **Full-Stack Developer**
+* 🧠 Improve backend architecture skills
+* 🐳 Master Docker & containerization
+* ☁️ Explore Cloud & DevOps
+* 🤖 Build more AI-powered applications
+* 🌍 Contribute to open-source projects
+* 📈 Build a stronger professional portfolio
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moetaz-Maamouri&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moetaz-Maamouri&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Moetaz-Maamouri&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Moetaz-Maamouri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/moetaz-maamouri">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://moetazmaamouri.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💻 "Build. Learn. Improve. Repeat."
+
+⭐ If you find my projects interesting, feel free to explore my repositories!
+
+</p>
