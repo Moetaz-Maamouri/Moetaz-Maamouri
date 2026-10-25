@@ -235,16 +235,8 @@ I'm currently focusing on improving my skills in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Moetaz-Maamouri&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent&hide_border=true"
-    height="180"
-    alt="GitHub profile statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moetaz-Maamouri&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-    height="180"
-    alt="Most used programming languages"
-  />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 ## 🔥 Contribution Streak
