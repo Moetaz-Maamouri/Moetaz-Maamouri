@@ -232,19 +232,37 @@ I'm currently focusing on improving my skills in:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moetaz-Maamouri&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moetaz-Maamouri&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Moetaz-Maamouri&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent&hide_border=true"
+    height="180"
+    alt="GitHub profile statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moetaz-Maamouri&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+    height="180"
+    alt="Most used programming languages"
+  />
 </p>
 
----
-
-# 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Moetaz-Maamouri&theme=transparent&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Moetaz-Maamouri&theme=transparent&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Moetaz-Maamouri&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub contribution activity graph"
+  />
 </p>
 
 ---
