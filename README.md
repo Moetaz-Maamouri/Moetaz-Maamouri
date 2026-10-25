@@ -256,14 +256,6 @@ I'm currently focusing on improving my skills in:
   />
 </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Moetaz-Maamouri&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub contribution activity graph"
-  />
-</p>
 
 ---
 
