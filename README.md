@@ -235,8 +235,7 @@ I'm currently focusing on improving my skills in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Statistics" />
 </p>
 
 ## 🔥 Contribution Streak
