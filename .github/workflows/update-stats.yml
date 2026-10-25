@@ -1,11 +1,10 @@
 
-
 name: Update GitHub Stats
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "17 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,22 +12,16 @@ permissions:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Generate GitHub Stats
+      - name: Generate stats
         uses: cicirello/user-statistician@v1
         with:
           image-file: profile/stats.svg
-          image-size: 100%
-
-      - name: Commit stats
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg
-          git diff --cached --quiet || (
-            git commit -m "Update GitHub stats" &&
-            git push
-          )
+          image-width: 800
+          commit-and-push: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
