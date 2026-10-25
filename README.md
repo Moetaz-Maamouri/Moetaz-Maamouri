@@ -242,8 +242,8 @@ I'm currently focusing on improving my skills in:
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Moetaz-Maamouri&theme=transparent&hide_border=true"
-    alt="GitHub contribution streak"
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
